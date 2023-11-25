@@ -34,8 +34,8 @@ const String kNewOrder = 'neworder';
 // txt in Home Screen
 const String appBarHome = 'Restaurant Hall';
 const String mainDecHome =
-    'Below List of tabel \n click on an tabel to pick order';
-const String titleDividerHome = 'List of Tabel';
+    'Below List of tabel \n click on a table to pick order';
+const String titleDividerHome = 'List of Table';
 const String txtNumOfTabel = 'Table No : ';
 const String txtTabelhasOrder = 'had order';
 const String txtTabelnohasOrder = ' No order yet';
@@ -52,7 +52,7 @@ const String totaltxt = 'Totel : ';
 
 // txt All order SCreen
 const String appBarALL = 'All orders';
-const String noOrederSave = 'No Oreder Saved yet ...';
+const String noOrederSave = 'No Order Saved yet ...';
 const String tabelNo = 'Table No : ';
 const String totelOfInvoice = 'Total Invoice : ';
 const String detailsOrdertxt = 'Details Order';

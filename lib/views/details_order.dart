@@ -78,7 +78,7 @@ class DetailsOrder extends StatelessWidget {
                       fSzie: 20,
                     ),
                     subtitle: CustomTxt(
-                      '${convertObj[index][count]} * ${convertObj[index][count]} = ${convertObj[index][totel]}',
+                      '${convertObj[index][count]} * ${convertObj[index][price]} = ${convertObj[index][totel]}',
                       color: secondryColor,
                       txtAlign: TextAlign.start,
                     ),
